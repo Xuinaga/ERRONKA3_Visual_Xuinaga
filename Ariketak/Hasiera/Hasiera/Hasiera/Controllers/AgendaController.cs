@@ -8,6 +8,7 @@ using Hasiera.Models;
 
 namespace Hasiera.Controllers
 {
+    //githubera igotzen den ikusteko
     public class AgendaController : Controller
     {
         // GET: AgendaController
